@@ -1,0 +1,6 @@
+
+
+node_modules/
+# npm install para volver a instalar todos los modulos de node
+
+/salida/*.txt
